@@ -15,3 +15,8 @@ c) The steps for implementing Prim's algorithm are as follows:
 d) Initialize the minimum spanning tree with a vertex chosen at random.
 e) Find all the edges that connect the tree to new vertices, find the minimum and add it to the tree
 f) Keep repeating step 2 until we get a minimum spanning tree
+
+
+
+### Author : Zubeir Msemo
+
